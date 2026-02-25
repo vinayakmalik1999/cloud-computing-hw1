@@ -61,7 +61,9 @@ cuisines = [
     "Italian restaurants",
     "Mexican restaurants",
     "Indian restaurants",
-    "Japanese restaurants"
+    "Japanese restaurants",
+    "Turkish restaurants",
+    "Spanish restaurants"
 ]
 
 
